@@ -13,8 +13,11 @@ $extract =  new ExtractorImdb();
 $extract-> setLoadDataByUrl($url);
 
 $titleId = $extract-> getTitleId();
+
 $title = $extract-> getTitle();
+
 $cast = $extract-> getCast();
+
 $mediaImages = $extract-> getImages();
 
 
