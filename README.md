@@ -29,4 +29,4 @@ $extract-> getMovieInfoByUrl($url);
 
 Note : dose not route ,you must make route.
 
-All files in zip file
+All files is in zip file
