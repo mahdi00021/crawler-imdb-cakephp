@@ -25,3 +25,6 @@ $mediaImages = $extract-> getImages();
 
 
 $extract-> getMovieInfoByUrl($url);
+
+
+Note : dose not route ,you must make route.
